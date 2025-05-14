@@ -43,5 +43,8 @@ public class Product {
         p1.setPrice(500);
         System.out.println(p1.getPrice());
         System.out.println(one1.getAge());
+        System.out.println("hello");
+        System.out.println("hello2");
+
     }
 }
