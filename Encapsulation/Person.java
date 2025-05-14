@@ -16,6 +16,9 @@ public class Person {
         one.setAge(27);
 
         System.out.println(one.getAge());
+        System.out.println("hello");
+        System.out.println("hello2");
+        System.out.println("hello222");
 
     }
 }
